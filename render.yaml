@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: cprf-projects-map
+    env: static
+    staticPublishPath: static
